@@ -1,5 +1,19 @@
 # README
 
+
+## Intro
+This is a vehicle management database system using CRUD operations.
+This web app is built on Ruby on Rails. 
+
+## Backend features
+User Authentication.
+SQLite3 for CRUD operations.
+Database initialization and creation.
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
